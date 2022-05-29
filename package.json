@@ -1,0 +1,31 @@
+{
+  "name": "js_homework_41",
+  "version": "1.0.0",
+  "description": "dz",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElizabethShamrai/js_homework_41.git"
+  },
+  "keywords": [
+    "123"
+  ],
+  "author": "Liza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElizabethShamrai/js_homework_41/issues"
+  },
+  "homepage": "https://github.com/ElizabethShamrai/js_homework_41#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "eslint": "^8.16.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "prettier": "^2.6.2"
+  }
+}
